@@ -1,7 +1,7 @@
 Hi! My name is Muhammad Tayyab 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer.
+🌍  I am a Full Stack Developer.
 <br/>
 
 ### Skills
